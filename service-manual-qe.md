@@ -9,6 +9,7 @@ Quality engineering is how you build confidence that your service works for user
 ## Quality is a shared responsibility
 
 Everyone is responsible for the quality of what they deliver. That means:
+
 - understanding what quality means for your users and service
 - designing for testability, reliability, accessibility, and security
 - testing early and often
@@ -22,6 +23,7 @@ Quality assurance is a team effort supported by specialist skills. Different typ
 Plan how you’ll build and test quality starting from discovery and alpha, not after you’ve built something. Designing for testability and resilience reduces risk later.
 
 Do this by:
+
 - identifying the risks and how you’ll manage them
 - designing systems that are easy to test and observe
 - building environments that reflect live conditions
@@ -135,6 +137,6 @@ Quality engineering evolves as technology and risks change. Keep improving by:
 - experimenting with new tools and techniques
 - sharing lessons with other teams and communities across government
 
-Operate to SLOs and error budgets. After incidents, add regression tests by default and retire flaky or low-value tests. Publish a monthly quality scorecard where possible. Building reliable, resilient services depends on how well teams learn and adapt together.
+Operate to SLOs and error budgets. After incidents, add regression tests by default and retire flaky or low-value tests. Publish a monthly quality scorecard where possible.
 
-
+Building reliable, resilient services depends on how well teams learn and adapt together.
