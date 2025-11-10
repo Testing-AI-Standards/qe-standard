@@ -1,5 +1,5 @@
-![Quality Check](https://github.com/Testing-AI-Standards/qe-standard/actions/workflows/standards-check.yml)
-![Draft](https://img.shields.io/badge/Phase-Draft-Amber)
+![Quality Check](https://github.com/Testing-AI-Standards/qe-standard/actions/workflows/standards-check.yml/badge.svg)
+![Draft](https://img.shields.io/badge/Phase-Review-ffbf00)
 <!-- cspell:disable-next-line -->
 # qe-standard
 
@@ -23,6 +23,9 @@ We welcome contributions and feedback from the community of practices and indust
 Unless stated otherwise, the framework is released under the MIT License. This covers both the files and any sample code in the documentation.
 
 The documentation is [© Crown copyright](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/) and available under the terms of the [Open Government 3.0 licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+
+This repository contains the proposed QE standard to update the [Service Manual](https://www.gov.uk/service-manual)
+The goal is to gather input and feedback to refine and strengthen our approach to testing, validation, and assurance in the public sector.
 
 This repository contains the proposed QE standard to update the [Service Manual](https://www.gov.uk/service-manual)
 The goal is to gather input and feedback to refine and strengthen our approach to testing, validation, and assurance in the public sector.
