@@ -4,7 +4,9 @@
 
 ## Why this matters
 
-Quality engineering is how you build confidence that your service works for users, stays reliable, and can change safely at pace. It covers everything from early design decisions and testing to live monitoring and learning from real use. It’s about engineering the quality in, not checking it at the end.
+Quality engineering is how you build confidence that your service works for users, stays reliable, and can change safely at pace. It is a broader approach that builds on quality assurance, but extends it across the whole service lifecycle, from design and development to live operations and continuous improvement. Quality engineering brings together assurance, testing, verification, validation, monitoring, reliability and resilience into one continuous system. It reflects how modern digital teams work: designing for quality, testing early and often, establishing a continuous feedback loop, monitoring outcomes and improving.
+
+It’s about engineering the quality in, not checking it at the end.
 
 ## Quality is a shared responsibility
 
