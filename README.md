@@ -1,5 +1,5 @@
-![Quality Check](https://github.com/Testing-AI-Standards/qe-standard/actions/workflows/standards-check.yml)
-![Draft](https://img.shields.io/badge/Phase-Draft-Amber)
+![Quality Check](https://github.com/Testing-AI-Standards/qe-standard/actions/workflows/standards-check.yml/badge.svg)
+![Draft](https://img.shields.io/badge/Phase-Review-ffbf00)
 <!-- cspell:disable-next-line -->
 # qe-standard
 
