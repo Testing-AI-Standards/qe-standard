@@ -26,3 +26,6 @@ The documentation is [© Crown copyright](https://www.nationalarchives.gov.uk/in
 
 This repository contains the proposed QE standard to update the [Service Manual](https://www.gov.uk/service-manual)
 The goal is to gather input and feedback to refine and strengthen our approach to testing, validation, and assurance in the public sector.
+
+This repository contains the proposed QE standard to update the [Service Manual](https://www.gov.uk/service-manual)
+The goal is to gather input and feedback to refine and strengthen our approach to testing, validation, and assurance in the public sector.
