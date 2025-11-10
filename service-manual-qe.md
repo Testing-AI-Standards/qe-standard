@@ -41,6 +41,8 @@ Testing isn’t a one-off activity. It’s how you learn whether your service be
 - observe how it behaves in different environments and devices
 - learn from data, incidents, and user feedback
 - feed those lessons into test design and delivery decisions
+- adopt an in sprint automation approach where possible
+- test the changes in automated way for continuous deployments
 
 Testing and learning continuously help you release safely and confidently. Adopt a risk-based test pyramid. Set a flake budget and track test stability. Any production defect should result in a new automated regression test.
 
@@ -49,7 +51,7 @@ Keep testing in pipelines fast by using:
 - parallelise
 - ephemeral environments
 - deterministic test data
-- contract tests over end-to-end UI where possible.
+- contract/API tests over end-to-end UI where possible.
 
 Design tests based on risks covering product factors, user journeys, data, interfaces, time, and quality criteria categories (capability, usability, security, reliability, etc.).
 
@@ -68,7 +70,7 @@ You should also test for:
 
 Quality engineering brings these threads together into a single picture of confidence. For services with APIs or microservices, implement contract tests that run on every pull request and in CI. Map risks to test types: contracts for integration risk, chaos/failover tests for resilience, targeted performance tests for peak journeys, and pen testing for exposed surfaces.
 
-## Keep assuring in live
+## Keep monitoring in live
 
 Assurance doesn’t stop at release. Your service should:
 
