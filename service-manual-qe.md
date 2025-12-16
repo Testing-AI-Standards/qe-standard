@@ -28,6 +28,9 @@ Do this by:
 
 - identifying the risks and how you’ll manage them
 - designing systems that are easy to test and observe
+- analysing risks, constraints and assumptions that might affect quality
+- validating assumptions through prototypes or experiments
+- agreeing early definitions of quality for the service and users
 - building environments that reflect live conditions
 - automating checks that give fast feedback
 - protecting user data through safe, synthetic test data or masking
