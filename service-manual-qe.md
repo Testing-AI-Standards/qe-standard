@@ -82,6 +82,7 @@ Assurance doesn’t stop at release. Your service should:
 - use monitoring, alerting and analytics to understand live behaviour
 - rehearse incident response and recovery
 - review incidents openly and turn findings into improvements
+- feedback incident details and lessons to testing
 
 Build your observability and resilience practices alongside your testing, they’re both part of assurance.
 
@@ -147,3 +148,20 @@ Quality engineering evolves as technology and risks change. Keep improving by:
 Operate to SLOs and error budgets. After incidents, add regression tests by default and retire flaky or low-value tests. Publish a monthly quality scorecard where possible.
 
 Building reliable, resilient services depends on how well teams learn and adapt together.
+
+## Glossary
+
+- QE (Quality Engineering): - A holistic approach to embedding quality throughout the service
+lifecycle.
+- QA (Quality Assurance): Traditional process of verifying quality, usually at the end of development.
+- SLO (Service Level Objective): Target level of reliability or performance for a service.
+- Error Budget: The allowable threshold of failures before corrective actions are needed.
+- Flake Budget: A limit on the number of unstable or flaky tests tolerated in the pipeline.
+- Test Pyramid: A testing strategy emphasizing more unit tests, fewer integration tests, and minimal
+end-to-end tests.
+- Ephemeral Environment: A temporary, disposable environment used for testing.
+- Contract Test: A test that verifies interactions between services or API
+- DORA Metrics: Industry-standard metrics for software delivery performance (e.g., deployment
+frequency, lead time).
+- Observability: The ability to understand system behaviour through logs, metrics, and traces.
+- Canary Deployment: Gradual release of changes to a small subset of users before full rollout
